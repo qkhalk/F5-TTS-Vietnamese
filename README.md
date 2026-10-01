@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6fb,1:005bea&height=170&section=header&text=F5-TTS%20Vietnamese&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+  <p>
+    <img src="https://img.shields.io/github/languages/top/qkhalk/F5-TTS-Vietnamese?style=for-the-badge" alt="language" />
+    <img src="https://img.shields.io/github/stars/qkhalk/F5-TTS-Vietnamese?style=for-the-badge&logo=github" alt="stars" />
+    <img src="https://img.shields.io/github/license/qkhalk/F5-TTS-Vietnamese?style=for-the-badge" alt="license" />
+  </p>
+</div>
+
 # F5-TTS-Vietnamese
 ![F5-TTS Architecture](tests/f5-tts.png)
 
